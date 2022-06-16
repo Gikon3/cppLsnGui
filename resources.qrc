@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/langs">
+        <file>CppLsnGui_ru_RU.qm</file>
+    </qresource>
+</RCC>
